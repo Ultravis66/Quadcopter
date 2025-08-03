@@ -2,7 +2,12 @@
 
 This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Motion (RBM)** to model spinning rotors and visualize wake dynamics.
 
-## Simulation Preview
+## Downwake Preview
+
+![Quadcopter View](QuadcopterI.png)
+
+
+## Simulation Gif
 
 ![Quadcopter Wake](Quadcopter.gif)
 
