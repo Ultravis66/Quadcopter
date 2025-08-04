@@ -13,11 +13,9 @@ This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Mo
 
 ---
 
-## 📊 Force and Moment History
-
-| Lifting Force       | Side Force         |
-|---------------------|--------------------|
-| ![Lifting Force](LiftingForce.png) | ![Side Force](SideForce.png) |
+| Force X (Longitudinal) | Force Y (Lifting) | Force Z (Lateral) |
+|------------------------|-------------------|--------------------|
+| ![Force X](ForceX.png) | ![Force Y](ForceY.png) | ![Force Z](ForceZ.png) |
 
 ### Combined Moments
 
