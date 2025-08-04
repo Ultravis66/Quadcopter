@@ -13,7 +13,7 @@ This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Mo
 
 ---
 
-| Force X (Longitudinal) | Force Y (Lifting) | Force Z (Lateral) |
+| Force X | Force Y (Lifting) | Force Z |
 |------------------------|-------------------|--------------------|
 | ![Force X](ForceX.png) | ![Force Y](ForceY.png) | ![Force Z](ForceZ.png) |
 
