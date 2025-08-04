@@ -37,3 +37,6 @@ This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Mo
 - Batch-submitted using SLURM scripting
 - Overset mesh for spinning rotor regions
 - Wake behavior and stability analysis
+
+Geometry From here:
+https://grabcad.com/library/foldable-drone-quadcopter-1
