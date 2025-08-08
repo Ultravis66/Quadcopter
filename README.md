@@ -2,7 +2,7 @@
 
 This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Motion (RBM)** to model spinning rotors and visualize wake dynamics. 785 rad/sec.
 
-## 🧩 Mesh and Propeller Setup
+## Mesh and Propeller Setup
 
 | Full Assembly with Overset Domains | Detailed View Around a Single Propeller |
 |------------------------------------|------------------------------------------|
@@ -29,7 +29,7 @@ This project demonstrates a CFD simulation of a quadcopter using **Rigid Body Mo
 
 ---
 
-## 🧠 Simulation Details
+## Simulation Details
 
 - 4 rotors modeled with RBM (2 CW, 2 CCW)
 - Simulated using HPC resources
